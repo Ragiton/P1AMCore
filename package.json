@@ -1,0 +1,17 @@
+{
+  "name": "framework-arduino-samd",
+  "version": "1.6.21",
+  "description": "Arduino framework for SAMD21/SAMD51 board required for the P1AM100",
+  "keywords": [
+    "framework",
+    "wiring",
+    "arduino"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facts-engineering/P1AMCore.git"
+  },
+  "license": "LGPL-2.1-or-later",
+  "frameworks": "arduino",
+  "platforms": "atmelsam"
+}
